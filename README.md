@@ -1,14 +1,22 @@
- ### *Main Gameplay* 
-<img width="full" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" /> <br/>
+ ### *Gameplay* 
+<div style="display: flex; gap: 4px; justify-content: center; flex-wrap: wrap;">
 
-_Betting Phase_
-<br/><br/>
-<img width="full" alt="image" src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" /> <br/>
-_Card Playing Phase_
-<br/><br/>
+  <div style="text-align: center; flex: 1 0 30%;">
+    <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 100%; max-width: 200px; height: 120px; object-fit: cover;" />
+    <div><em>Betting Phase</em></div>
+  </div>
 
-### *Match History Display* 
-<img width="full" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
+  <div style="text-align: center; flex: 1 0 30%;">
+    <img src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" alt="Card Playing Phase" style="width: 100%; max-width: 200px; height: 120px; object-fit: cover;" />
+    <div><em>Card Playing Phase</em></div>
+  </div>
+
+  <div style="text-align: center; flex: 1 0 30%;">
+    <img src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" alt="Match History" style="width: 100%; max-width: 200px; height: 120px; object-fit: cover;" />
+    <div><em>Match History</em></div>
+  </div>
+
+</div>
 
 
 ### Why? 
