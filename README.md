@@ -6,7 +6,7 @@ I really like bridge. It has the appeal of
 
 I played it everyday in high school, during breaks, after school. But after graduating, it's been harder to organize sessions. I tried sneaking it into my navy camp once and got caught in like a week lol.
 
-So I built this, first as a singleplayer version just to entertain myself with bots following simple flow charts. 
+So I built this, first as a singleplayer version just to entertain myself by playing with bots following simple logic flow charts. 
 
 But I have plans to make it multiplayer to play with friends online, although it still won't be the same as in person of course. 
 
