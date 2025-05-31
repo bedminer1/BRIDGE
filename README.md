@@ -1,6 +1,4 @@
  ### *Gameplay* 
-<div style="display: flex; gap: 4px; justify-content: center; align-items: flex-start;">
-
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 140px; height: 100px; object-fit: cover;" />
     <div><em>Betting Phase</em></div>
@@ -15,8 +13,6 @@
     <img src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" alt="Match History" style="width: 140px; height: 100px; object-fit: cover;" />
     <div><em>Match History</em></div>
   </div>
-
-</div>
 
 
 ### Why? 
