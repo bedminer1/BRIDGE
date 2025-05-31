@@ -1,14 +1,14 @@
  ### *Main Gameplay* 
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" /> <br/>
+<img width="full" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" /> <br/>
 
 _Betting Phase_
 <br/><br/>
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" /> <br/>
+<img width="full" alt="image" src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" /> <br/>
 _Card Playing Phase_
 <br/><br/>
 
 ### *Match History Display* 
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
+<img width="full" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
 
 
 ### Why? 
