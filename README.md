@@ -1,4 +1,6 @@
  ### *Gameplay* 
+ Check it out yourself [here](https://bridge-psi-ten.vercel.app/) :) \
+ 
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 100%;" />
     <div><em>Betting Phase</em></div>
@@ -30,5 +32,3 @@ So I built this, first as a singleplayer version just to entertain myself by pla
 I have plans to make it multiplayer to play with friends online, although it still won't be the same as in person of course. 
 
 Training the bots using machine learning and deep learning techniques is also in the works, hopefully to make bridge bots that are unbeatable (or at least very hard to beat since bridge is still has an element of luck) like chess bots have become.
-
-Check it out [here](https://bridge-psi-ten.vercel.app/) :)
