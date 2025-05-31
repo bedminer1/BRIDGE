@@ -1,5 +1,8 @@
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/d2aa85ab-9abd-43ae-a5d2-dbe8fa38f78c" />
+_Main Gameplay_
+
 <img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" />
+_Match History Display_
 
 
 I really like bridge. It has the appeal of 
@@ -8,7 +11,7 @@ I really like bridge. It has the appeal of
 - expected value calculations like in **poker**
 - bluffing like in **mafia** where you trick others about your team status
 
-I played it everyday in high school, during breaks, after school. But after graduating, it's been harder to organize sessions. I tried sneaking it into my navy camp once and got caught in like a week lol.
+I played it everyday in high school, during breaks, after school. But after graduating, it's been harder to organize sessions. During NS, I tried sneaking cards into my naval camp once and got caught in like a week lol.
 
 So I built this, first as a singleplayer version just to entertain myself by playing with bots following simple logic flow charts. 
 
