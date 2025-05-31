@@ -1,16 +1,16 @@
  ### *Gameplay* 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 30%; height: 100px; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 30%; height: 100px;" />
     <div><em>Betting Phase</em></div>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" alt="Card Playing Phase" style="width: 30%; height: 100px; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" alt="Card Playing Phase" style="width: 30%; height: 100px;" />
     <div><em>Card Playing Phase</em></div>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" alt="Match History" style="width: 30%; height: 100px; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" alt="Match History" style="width: 30%; height: 100px;" />
     <div><em>Match History</em></div>
   </div>
 
