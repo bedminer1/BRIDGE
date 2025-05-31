@@ -4,7 +4,7 @@
 
 
 ### *Match History Display* 
-<img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
 
 
 I really like bridge. It has the appeal of 
