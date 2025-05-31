@@ -1,7 +1,8 @@
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/d2aa85ab-9abd-43ae-a5d2-dbe8fa38f78c" />\
  *Main Gameplay* 
 
-<img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" />\ *Match History Display* 
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" />\ 
+*Match History Display* 
 
 
 I really like bridge. It has the appeal of 
