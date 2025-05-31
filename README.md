@@ -1,8 +1,8 @@
  ### *Main Gameplay* 
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" />/
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" /> <br/>
 
 _Betting Phase_
-<img width="460" alt="image" src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" />/
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/3e467ef7-5c20-41ee-bac8-036b130842d2" /> <br/>
 
 _Card Playing Phase_
 
