@@ -1,5 +1,5 @@
  ### *Gameplay* 
- Check it out yourself [here](https://bridge-psi-ten.vercel.app/) :) \
+ Check it out yourself [here](https://bridge-psi-ten.vercel.app/) : )
  
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" alt="Betting Phase" style="width: 100%;" />
