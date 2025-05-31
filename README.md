@@ -1,3 +1,7 @@
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/81c065c1-f76a-4b1f-bfbe-ac1348c64225" />
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" />
+
+
 I really like bridge. It has the appeal of 
 - being quite simple at its core like **uno**
 - while strategy can go deeper with card counting like in **blackjack**
