@@ -1,5 +1,6 @@
  ### *Main Gameplay* 
-<img width="662" alt="image" src="https://github.com/user-attachments/assets/d2aa85ab-9abd-43ae-a5d2-dbe8fa38f78c" />
+<img width="357" alt="image" src="https://github.com/user-attachments/assets/a37d37c5-93dd-4d9b-9299-9d1cff9171c6" />
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/d2aa85ab-9abd-43ae-a5d2-dbe8fa38f78c" />
 
 ### *Match History Display* 
 <img width="661" alt="image" src="https://github.com/user-attachments/assets/c1f9c09e-2864-4fb2-88d9-94d41321d18d" /> 
