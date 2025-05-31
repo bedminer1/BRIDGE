@@ -31,4 +31,4 @@ I have plans to make it multiplayer to play with friends online, although it sti
 
 Training the bots using machine learning and deep learning techniques is also in the works, hopefully to make bridge bots that are unbeatable (or at least very hard to beat since bridge is still has an element of luck) like chess bots have become.
 
-Check it out [here]([url](https://bridge-psi-ten.vercel.app/)) :)
+Check it out [here](https://bridge-psi-ten.vercel.app/) :)
